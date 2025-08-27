@@ -19,8 +19,3 @@ Arquivo: `ex03.html`
 ## Tecnologias
 - HTML5  
 - JavaScript
-
-## Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
